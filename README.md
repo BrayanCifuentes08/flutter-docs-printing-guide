@@ -32,13 +32,14 @@ dependencies:
 ```
 ⚠️ Nota **PASOS**: 
 - Se está usando la versión **1.2.3**: [blue_thermal_printer en Pub.dev](https://pub.dev/packages/blue_thermal_printer/versions) para descargarla.
-- Al descargar el paquete, extraer los archivos, luego crear una carpeta con el nombre **blue_thermal_printer** y ubicar los archivos, por último mover la carpeta a:
-
+- Al descargar el paquete, extraer los archivos.
+- Crear una carpeta con el nombre blue_thermal_printer y ubicar los archivos dentro de ella.
+- Mover la carpeta a la ruta del proyecto:
 ```yaml
 <proyecto_flutter>/packages/
 ```
 
-- Luego de eso, debe quedar asi el paquete **blue_thermal_printer**:
+- Al final debe quedar así:
 
 ```yaml
 <proyecto_flutter>/packages/blue_thermal_printer
