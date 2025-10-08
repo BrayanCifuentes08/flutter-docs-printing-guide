@@ -32,13 +32,13 @@ dependencies:
 ```
 ⚠️ Nota: 
 - Se está usando la versión **1.2.3**.
-- Al descargar el paquete, extraer los archivos, luego, crear una carpeta con el nombre **blue_thermal_printer** y ubicar la carpeta en:
+- Al descargar el paquete, extraer los archivos, luego, crear una carpeta con el nombre **blue_thermal_printer** y ubicar los archivos, por ultimo mover la carpeta a:
 
 ```yaml
 <proyecto_flutter>/packages/
 ```
 
-- Luego de eso, debe quedar asi:
+- Luego de eso, debe quedar asi el paquete **blue_thermal_printer**:
 
 ```yaml
 <proyecto_flutter>/packages/blue_thermal_printer
