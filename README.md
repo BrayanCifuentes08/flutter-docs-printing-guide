@@ -31,8 +31,8 @@ dependencies:
   path_provider: ^2.1.5 # Acceso a directorios locales
 ```
 ⚠️ Nota: 
-- Se está usando la versión **1.2.3**.
-- Al descargar el paquete, extraer los archivos, luego, crear una carpeta con el nombre **blue_thermal_printer** y ubicar los archivos, por ultimo mover la carpeta a:
+- Se está usando la versión **1.2.3**: [blue_thermal_printer en Pub.dev](https://pub.dev/packages/blue_thermal_printer/versions) para descargarla.
+- Al descargar el paquete, extraer los archivos, luego crear una carpeta con el nombre **blue_thermal_printer** y ubicar los archivos, por último mover la carpeta a:
 
 ```yaml
 <proyecto_flutter>/packages/
