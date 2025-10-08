@@ -21,7 +21,7 @@ dependencies:
   flutter:
     sdk: flutter
   blue_thermal_printer:
-    path: ./packages/blue_thermal_printer # Impresora Bluetooth (local)
+    path: ./packages/blue_thermal_printer # Impresora Bluetooth (local, versión 1.2.3)
   pdf: ^3.11.3 # Generación de PDFs
   printing: ^5.14.2 # Impresión y previsualización de PDFs
   android_intent_plus: ^6.0.0 # Manejo de Intents en Android
@@ -29,6 +29,19 @@ dependencies:
   flutter_image_compress: ^2.4.0 # Compresión de imágenes
   provider: ^6.1.5+1 # Manejo de estado
   path_provider: ^2.1.5 # Acceso a directorios locales
+```
+⚠️ Nota: 
+- Se está usando la versión **1.2.3**.
+- Al descargar el paquete, extraer los archivos, luego, crear una carpeta con el nombre **blue_thermal_printer** y ubicar la carpeta en:
+
+```yaml
+<proyecto_flutter>/packages/
+```
+
+- Luego de eso, debe quedar asi:
+
+```yaml
+<proyecto_flutter>/packages/blue_thermal_printer
 ```
 
 ## 📦 Instalación de paquetes
